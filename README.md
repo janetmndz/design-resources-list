@@ -43,6 +43,8 @@ content backdrops in any part of your website*
   - **How to use**: Search and select free icons and down load them as SVGs, PNGs, etc. You mush credit the author for a free download. 
 - [Material Design Icons](https://material.io/resources/icons/?style=baseline) - *Material icons for common actions and items.*
   - **How to use**: Search and click to download icons as SVGS. Can choose from themes like: filled, outlined, rounded, two-tone, sharp.
+- [Illustrations](https://illlustrations.co/) - *Large set of open source illustrations*
+  - **How to use**: Individually download illustrations as SVG or PNG. Option to download entire collection via zip file. Support illustrators though donation link. 
 
 ## Typography & Fonts
 - [Type Anything](https://app.typeanything.io/) - *A free and awesome typography tool to create and test font combinations for your projects*
@@ -55,6 +57,8 @@ content backdrops in any part of your website*
   - **How to use**: Download selected font and use as your site's webfonts. For more info on using webfonts, they offer a guide.
 - [Better Webtype](https://betterwebtype.com/) - *A free web typography course for web designers & web developers.*
   - **How to use**: Sign up for the newsletter and receive dailf 5 -10 min lessons on web typography with further reading and resources given. Also get access to Better Type's Slack channel upon signing up. 
+- [Free Typography](https://freetypography.com/free-fonts/) - *A blog about the best free fonts, typefaces and typography for free download.*
+  - **How to use**: Downloaded selected fonts via exclusive link provided. Offers more fonts through their free email newsletter.
 
 ## Inspirational Sites
 - [Dribbble](https://dribbble.com/) - *large community of differnet types of design*
